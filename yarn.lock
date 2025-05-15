@@ -15496,10 +15496,10 @@ chrome-trace-event@^1.0.2:
   dependencies:
     tslib "^1.9.0"
 
-chromedriver@^136.0.0:
-  version "136.0.0"
-  resolved "https://registry.yarnpkg.com/chromedriver/-/chromedriver-136.0.0.tgz#b777a33ea50b8c775b522317175379d8c79e84ab"
-  integrity sha512-21LxtGIqRLkafi0aOLKxIyQ3uRklgdmhuihzAkoL3Er5QtC74UDuu2OeTDdh58LM7WDbiuTXjdoIQARUekL8DA==
+chromedriver@^136.0.2:
+  version "136.0.2"
+  resolved "https://registry.yarnpkg.com/chromedriver/-/chromedriver-136.0.2.tgz#736f81899ebff7569abc0f938fc5742bb446a39f"
+  integrity sha512-yJ52GN01edLYWYK/OspYBv3plzF08Ucdq4ukYigJGOX8dWr/tP5PXSZPWFPVarmbmcO57pNLP9Im8hsYljMEjw==
   dependencies:
     "@testim/chrome-version" "^1.1.4"
     axios "^1.7.4"
@@ -18010,7 +18010,7 @@ elastic-apm-node@^4.10.0, elastic-apm-node@^4.13.0:
     fast-safe-stringify "^2.0.7"
     fast-stream-to-buffer "^1.0.0"
     http-headers "^3.0.2"
-    import-in-the-middle "1.12.0"
+    import-in-the-middle "1.13.1"
     json-bigint "^1.0.0"
     lru-cache "10.2.0"
     measured-reporting "^1.51.1"
