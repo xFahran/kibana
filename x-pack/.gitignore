@@ -1,0 +1,8 @@
+/.gradle
+/build
+/target
+/.aws-config.json
+/.env
+/.kibana-plugin-helpers.dev.*
+.cache
+**/ui_tests/output
