@@ -1,7 +1,0 @@
-{
-  "type": "shared-browser",
-  "id": "@kbn/inference-endpoint-ui-common",
-  "owner": ["@elastic/appex-ai-infra"],
-  "group": "platform",
-  "visibility": "shared"
-}

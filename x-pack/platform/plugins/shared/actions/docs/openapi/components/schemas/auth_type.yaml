@@ -1,8 +1,0 @@
-title: Authentication type
-type: string
-nullable: true
-enum:
-  - webhook-authentication-basic
-  - webhook-authentication-ssl
-description: >
-  The type of authentication to use: basic, SSL, or none.

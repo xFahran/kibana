@@ -1,6 +1,0 @@
-{
-  "type": "shared-server",
-  "id": "@kbn/relocate",
-  "owner": "@elastic/kibana-core",
-  "devOnly": true
-}
